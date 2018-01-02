@@ -1,6 +1,6 @@
-## ruanmartinelli
+## :bust_in_silhouette: ruanmartinelli
 
-> :bust_in_silhouette: Get my contact information programmatically
+> Get my contact information programmatically
 
 ### Install
 
