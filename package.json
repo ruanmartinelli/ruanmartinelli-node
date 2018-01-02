@@ -1,0 +1,14 @@
+{
+  "name": "ruanmartinelli",
+  "version": "1.0.0",
+  "description": "Get my contact information programmatically",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanmartinelli/ruanmartinelli.git"
+  },
+  "main": "index.js",
+  "scripts": { "start": "node index" },
+  "keywords": ["ruanmartinelli"],
+  "author": "Ruan Martinelli",
+  "license": "ISC"
+}
